@@ -2,7 +2,7 @@ import 'react'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>hello</div>
   )
 }
 
